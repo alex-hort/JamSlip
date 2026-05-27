@@ -1,0 +1,1673 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "\"%@\"" : {
+
+    },
+    "@%@" : {
+
+    },
+    "/month" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mes"
+          }
+        }
+      }
+    },
+    "&" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "y"
+          }
+        }
+      }
+    },
+    "%@ " : {
+
+    },
+    "%@ will no longer follow you." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "@ ya no te sigue."
+          }
+        }
+      }
+    },
+    "%lld" : {
+
+    },
+    "%lld days free" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "días gratis"
+          }
+        }
+      }
+    },
+    "%lld dB" : {
+
+    },
+    "%lld followers" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "seguidores"
+          }
+        }
+      }
+    },
+    "%lld following" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "siguiendo"
+          }
+        }
+      }
+    },
+    "%lld/12 words" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "12 palabras"
+          }
+        }
+      }
+    },
+    "%lld%%" : {
+
+    },
+    "•" : {
+
+    },
+    "9+" : {
+
+    },
+    "10k" : {
+
+    },
+    "12k" : {
+
+    },
+    "32k" : {
+
+    },
+    "1000×1000 px" : {
+
+    },
+    "Active Subscription" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suscripción activa"
+          }
+        }
+      }
+    },
+    "Album Artwork" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Portada del álbum"
+          }
+        }
+      }
+    },
+    "All followers" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todos"
+          }
+        }
+      }
+    },
+    "Already purchased on another device?" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Ya lo compraste en otro dispositivo?"
+          }
+        }
+      }
+    },
+    "App Logo" : {
+
+    },
+    "Are you sure you want to log out?" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Seguro que quieres cerrar sesión?"
+          }
+        }
+      }
+    },
+    "Artwork will be automatically optimized to a 1000×1000 square format." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La portada se optimizará automáticamente a un formato cuadrado de 1000×1000."
+          }
+        }
+      }
+    },
+    "Auto-renewal is ON" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La renovación automática está activada."
+          }
+        }
+      }
+    },
+    "Banner photo" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Foto de portada"
+          }
+        }
+      }
+    },
+    "Be the first to upload a Jam" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sé el primero en subir un Jam"
+          }
+        }
+      }
+    },
+    "Bio" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bio"
+          }
+        }
+      }
+    },
+    "By continuing, you agree to JamSlip's" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Al continuar, aceptas los términos de JamSlip"
+          }
+        }
+      }
+    },
+    "By uploading, you confirm that your audio complies with our Terms of Use and does not infringe any rights." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Al subirlo, confirmas que tu audio cumple con nuestros Términos de Uso y no infringe ningún derecho."
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
+          }
+        }
+      }
+    },
+    "Cargando jam..." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cargando jam.."
+          }
+        }
+      }
+    },
+    "Cargando jams..." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cargando jams.."
+          }
+        }
+      }
+    },
+    "Cargando..." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cargando…"
+          }
+        }
+      }
+    },
+    "Change plan or cancel" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambiar plan o cancelar"
+          }
+        }
+      }
+    },
+    "Check your email" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revisa tu correo electrónico"
+          }
+        }
+      }
+    },
+    "Clear titles help listeners instantly understand your sound." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los títulos claros ayudan a que los oyentes entiendan tu sonido al instante."
+          }
+        }
+      }
+    },
+    "Comenzar" : {
+
+    },
+    "Confirm Deletion" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmar eliminación"
+          }
+        }
+      }
+    },
+    "Continue" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar"
+          }
+        }
+      }
+    },
+    "Continue with Apple" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar con Apple"
+          }
+        }
+      }
+    },
+    "Continue with Google" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar con Google"
+          }
+        }
+      }
+    },
+    "Create account" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crear cuenta"
+          }
+        }
+      }
+    },
+    "Create your account" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crea tu cuenta"
+          }
+        }
+      }
+    },
+    "Creating..." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Creando…"
+          }
+        }
+      }
+    },
+    "Delete Account" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eliminar cuenta"
+          }
+        }
+      }
+    },
+    "Delete Account?" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Eliminar cuenta?"
+          }
+        }
+      }
+    },
+    "Deleting account..." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eliminando cuenta…"
+          }
+        }
+      }
+    },
+    "Desbloquear" : {
+
+    },
+    "Description" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descripción"
+          }
+        }
+      }
+    },
+    "Distance affects reverb intensity" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La distancia afecta la intensidad de la reverberación"
+          }
+        }
+      }
+    },
+    "Don't have an account?" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿No tienes cuenta?"
+          }
+        }
+      }
+    },
+    "Done" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Listo"
+          }
+        }
+      }
+    },
+    "Edit profile" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar "
+          }
+        }
+      }
+    },
+    "Eliminar" : {
+
+    },
+    "Enter Password" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingresa la contraseña"
+          }
+        }
+      }
+    },
+    "Enter your password to confirm account deletion." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingresa tu contraseña para confirmar la eliminación de la cuenta."
+          }
+        }
+      }
+    },
+    "Error" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error"
+          }
+        }
+      }
+    },
+    "Falling in love" : {
+
+    },
+    "Find people to follow" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Encuentra personas para seguir"
+          }
+        }
+      }
+    },
+    "Follow" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seguir"
+          }
+        }
+      }
+    },
+    "Follow more users to see their jams here" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sígue a más usuarios para ver sus jams aquí"
+          }
+        }
+      }
+    },
+    "Followers" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seguidores"
+          }
+        }
+      }
+    },
+    "Following" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siguiendo"
+          }
+        }
+      }
+    },
+    "Forgot Password?" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Olvidaste tu contraseña?"
+          }
+        }
+      }
+    },
+    "Formats supported: MP3, WAV • Duration: 0:30 – 7:00 min" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Formatos compatibles: MP3, WAV • Duración: 0:30 – 7:00 min"
+          }
+        }
+      }
+    },
+    "Free Trial" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prueba gratis"
+          }
+        }
+      }
+    },
+    "From $99/month" : {
+
+    },
+    "Función Premium" : {
+
+    },
+    "Genre" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Género"
+          }
+        }
+      }
+    },
+    "I love you" : {
+
+    },
+    "Jam no encontrado" : {
+
+    },
+    "Jam title" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Título del jam"
+          }
+        }
+      }
+    },
+    "Jamslip 1.0" : {
+
+    },
+    "JamSlip." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JamSlip."
+          }
+        }
+      }
+    },
+    "Last Updated · February 2026" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Última actualización · febrero de 2026"
+          }
+        }
+      }
+    },
+    "Last Updated: February 2026" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Última actualización: febrero de 2026"
+          }
+        }
+      }
+    },
+    "Legal" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Legal"
+          }
+        }
+      }
+    },
+    "Let's Connect With Y'All" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectemos con ustedes"
+          }
+        }
+      }
+    },
+    "liked " : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "le gustó"
+          }
+        }
+      }
+    },
+    "Liked Jams" : {
+
+    },
+    "liked your jam" : {
+
+    },
+    "Loading..." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cargando…"
+          }
+        }
+      }
+    },
+    "Log Out" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salir"
+          }
+        }
+      }
+    },
+    "Login" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iniciar sesión"
+          }
+        }
+      }
+    },
+    "Manage Subscription" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Administrar Suscripción"
+          }
+        }
+      }
+    },
+    "Maximum 5 moods • Selected: %lld/5" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Máximo 5 estados de ánimo • Seleccionado: %lld/5"
+          }
+        }
+      }
+    },
+    "Maximum length: 7 minutes" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duración máxima: 7 minutos"
+          }
+        }
+      }
+    },
+    "Mood" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mood"
+          }
+        }
+      }
+    },
+    "Move around to feel directionality" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desliza para sentir la dirección"
+          }
+        }
+      }
+    },
+    "No activity yet" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aún no hay actividad"
+          }
+        }
+      }
+    },
+    "No followers yet" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aún no tiene seguidores"
+          }
+        }
+      }
+    },
+    "No Jams available" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay Jams disponibles"
+          }
+        }
+      }
+    },
+    "No jams from people you follow" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tus amigos aún no han publicado Jams"
+          }
+        }
+      }
+    },
+    "No jams yet" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aún no hay Jams"
+          }
+        }
+      }
+    },
+    "No Jams yet" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aún no hay Jams"
+          }
+        }
+      }
+    },
+    "No Purchases Found" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay compras asociadas a esta cuenta"
+          }
+        }
+      }
+    },
+    "Not following anyone yet" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No sigues a nadie todavía"
+          }
+        }
+      }
+    },
+    "Notification" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notificación"
+          }
+        }
+      }
+    },
+    "Notifications" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notificaciones"
+          }
+        }
+      }
+    },
+    "OK" : {
+
+    },
+    "One-time payment of $1,000 for 12 months" : {
+
+    },
+    "Only one genre can be selected." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solo puedes seleccionar un género."
+          }
+        }
+      }
+    },
+    "or" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "o"
+          }
+        }
+      }
+    },
+    "Password" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contraseña"
+          }
+        }
+      }
+    },
+    "Photo library" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Galería"
+          }
+        }
+      }
+    },
+    "Playing" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reproduciendo"
+          }
+        }
+      }
+    },
+    "Please enter your Email ID so that we can send the reset link." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingresa tu correo electrónico para enviarte el enlace de restablecimiento."
+          }
+        }
+      }
+    },
+    "Pop" : {
+
+    },
+    "Premium" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium "
+          }
+        }
+      }
+    },
+    "Premium Active" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium activo"
+          }
+        }
+      }
+    },
+    "Premium includes:" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu plan Premium incluye"
+          }
+        }
+      }
+    },
+    "Privacy" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacidad"
+          }
+        }
+      }
+    },
+    "Privacy Policy" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Política de privacidad"
+          }
+        }
+      }
+    },
+    "Profile photo" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Foto de perfil"
+          }
+        }
+      }
+    },
+    "Purchases Restored" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compras restauradas"
+          }
+        }
+      }
+    },
+    "Recent" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recientes"
+          }
+        }
+      }
+    },
+    "Remove" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eliminar"
+          }
+        }
+      }
+    },
+    "Remove follower?" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Eliminar seguidor?"
+          }
+        }
+      }
+    },
+    "Renews on %@" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se renueva el %@"
+          }
+        }
+      }
+    },
+    "reposted " : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "reposteó"
+          }
+        }
+      }
+    },
+    "reposted your jam" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "reposteó tu jam"
+          }
+        }
+      }
+    },
+    "Restore Purchases" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurar compras"
+          }
+        }
+      }
+    },
+    "Reverb Environment" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entorno de reverb"
+          }
+        }
+      }
+    },
+    "Save" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardar"
+          }
+        }
+      }
+    },
+    "Saved Jams" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardados"
+          }
+        }
+      }
+    },
+    "Search" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar"
+          }
+        }
+      }
+    },
+    "Search for people" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar personas"
+          }
+        }
+      }
+    },
+    "Searching..." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscando..."
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferencias"
+          }
+        }
+      }
+    },
+    "shared " : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "compartió"
+          }
+        }
+      }
+    },
+    "shared a jam" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "compartió un jam"
+          }
+        }
+      }
+    },
+    "Sign out" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salir"
+          }
+        }
+      }
+    },
+    "Sign Out" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salir"
+          }
+        }
+      }
+    },
+    "Sign out?" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salir?"
+          }
+        }
+      }
+    },
+    "Sign up" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Únete"
+          }
+        }
+      }
+    },
+    "Sign Up" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Únete"
+          }
+        }
+      }
+    },
+    "Signing in..." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iniciando…"
+          }
+        }
+      }
+    },
+    "So hotest" : {
+
+    },
+    "Spatial" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Espacial"
+          }
+        }
+      }
+    },
+    "Spatial Audio" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audio Espacial"
+          }
+        }
+      }
+    },
+    "SPATIAL AUDIO" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AUDIO ESPACIAL"
+          }
+        }
+      }
+    },
+    "Start Free Trial" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iniciar prueba gratis"
+          }
+        }
+      }
+    },
+    "started following you" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "comenzó a seguirte"
+          }
+        }
+      }
+    },
+    "Subscribe for %@/month" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suscríbete por %@/mes"
+          }
+        }
+      }
+    },
+    "Symbol and botton play" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Botón de reproducción"
+          }
+        }
+      }
+    },
+    "Tap to reload feed" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toca para actualizar"
+          }
+        }
+      }
+    },
+    "Terms" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Términos"
+          }
+        }
+      }
+    },
+    "Terms & Conditions" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Términos y condiciones"
+          }
+        }
+      }
+    },
+    "Terms of Service" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Términos de servicio"
+          }
+        }
+      }
+    },
+    "Then %@/month" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Después %@/mes"
+          }
+        }
+      }
+    },
+    "This action is permanent and cannot be undone. All your data including jams, likes, reposts, and profile information will be permanently deleted from JamSlip." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta acción es permanente y no se puede deshacer. Todos tus datos, incluyendo jams, likes, reposts e información del perfil, se eliminarán permanentemente de JamSlip."
+          }
+        }
+      }
+    },
+    "This may take a moment" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esto puede tomar un momento"
+          }
+        }
+      }
+    },
+    "This user hasn't uploaded any Jams yet" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este usuario aún no ha subido ningún Jam"
+          }
+        }
+      }
+    },
+    "This will only take a minute" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solo tomará un minuto"
+          }
+        }
+      }
+    },
+    "Tips" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tips"
+          }
+        }
+      }
+    },
+    "Title" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Título"
+          }
+        }
+      }
+    },
+    "Track" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pista"
+          }
+        }
+      }
+    },
+    "Trending" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En tendencia"
+          }
+        }
+      }
+    },
+    "Try 3 days free" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prueba 3 días gratis"
+          }
+        }
+      }
+    },
+    "Type DELETE to confirm" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribe ELIMINAR para confirmar"
+          }
+        }
+      }
+    },
+    "Type DELETE to confirm permanent account removal." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribe ELIMINAR para confirmar la eliminación permanente de la cuenta."
+          }
+        }
+      }
+    },
+    "Unfollow" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dejar de seguir"
+          }
+        }
+      }
+    },
+    "Unfollow %@?" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "eliminar"
+          }
+        }
+      }
+    },
+    "Unlock all premium features" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obtén todas las funciones premium"
+          }
+        }
+      }
+    },
+    "Unlock the full potential of JamSlip" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vive la experiencia completa de JamSlip"
+          }
+        }
+      }
+    },
+    "Unlock unlimited access with Premium." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desbloquea acceso ilimitado con Premium"
+          }
+        }
+      }
+    },
+    "Upgrade to Premium" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mejorar a Premium"
+          }
+        }
+      }
+    },
+    "Upload Jam" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subir Jam"
+          }
+        }
+      }
+    },
+    "Upload Limit" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Límite de subida"
+          }
+        }
+      }
+    },
+    "Upload your first jam and share it with the world" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Publica tu primer jam y que todo el mundo lo escuche"
+          }
+        }
+      }
+    },
+    "Upload your jam (.wav or .mp3)" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sube tu jam (.wav o .mp3)"
+          }
+        }
+      }
+    },
+    "Uploading your jam..." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subiendo tu jam..."
+          }
+        }
+      }
+    },
+    "Use headphones for best experience" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usa audífonos para la mejor experiencia"
+          }
+        }
+      }
+    },
+    "We couldn't find any previous purchases" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No encontramos compras anteriores"
+          }
+        }
+      }
+    },
+    "Welcome to Premium" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bienvenido a Premium"
+          }
+        }
+      }
+    },
+    "When someone likes, reposts your Jams\nor follows you, you'll see it here." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aquí aparecerán tus likes, reposts de Jams y nuevos seguidores."
+          }
+        }
+      }
+    },
+    "With Slip Pro, your track is matched with the right listeners automatically." : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slip Pro encuentra automáticamente a los oyentes perfectos para tu track."
+          }
+        }
+      }
+    },
+    "You can always access your content by signing back in" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu contenido te espera, solo inicia sesión de nuevo"
+          }
+        }
+      }
+    },
+    "You don't have any Jams yet" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aún no tienes Jams"
+          }
+        }
+      }
+    },
+    "You now have full access to all features" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Listo! Disfruta de todas nuestras funciones"
+          }
+        }
+      }
+    },
+    "Your 3-day free trial has started" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu prueba de 3 días ha comenzado"
+          }
+        }
+      }
+    },
+    "Your premium subscription has been restored" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Listo! Tu suscripción premium volvió"
+          }
+        }
+      }
+    },
+    "Your Special Offer" : {
+      "localizations" : {
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aprovecha la oferta"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.1"
+}
