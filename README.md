@@ -78,7 +78,7 @@ Each microservice is packaged in its own **Docker** image, stored in Artifact Re
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/jamslip.git
+git clone https://github.com/alex-hort/JamSlip
 cd jamslip
 
 # 2. Open the project in Xcode
@@ -110,12 +110,7 @@ Commits follow the [Conventional Commits](https://www.conventionalcommits.org) s
 | Member | Role | Focus |
 |---|---|---|
 | Alexis Horteales Espinosa | Backend | Auth API, Firebase Auth, JWT, Secret Manager |
-| Luis Guillermo Mendoza Flores | Backend | Audio streaming API, Cloud Storage, Cloud Run |
-| Juan Carlos Bartolo Flores | Frontend | SwiftUI screens, Gemini API integration |
-| Eliana Larissa Castellanos Domínguez | Frontend | AVFoundation player, playlists, Realtime DB |
-| Oscar Ortiz López | Database | Data model, Firestore, indexes & security rules |
 
-Developed with **Scrum** (5 sprints, Feb–May 2026) at **Centro Universitario UAEM Atlacomulco** — Computer Engineering, Computational Technologies I.
 
 ## 📄 License
 
